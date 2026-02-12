@@ -1,0 +1,26 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# Environment files (DO NOT COMMIT)
+.env
+*.env
+ai_backend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules
+node_modules/
